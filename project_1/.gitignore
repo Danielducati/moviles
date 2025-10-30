@@ -1,0 +1,48 @@
+# ========================
+# Archivos del sistema / IDE
+# ========================
+.DS_Store
+*.iml
+.idea/
+.vscode/
+*.log
+
+# ========================
+# Flutter / Dart
+# ========================
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+.pub-cache/
+build/
+coverage/
+doc/api/
+
+# ========================
+# Android / iOS
+# ========================
+android/app/debug/
+android/app/profile/
+android/app/release/
+ios/Flutter/.last_build_id
+
+# ========================
+# Archivos temporales / otros
+# ========================
+*.class
+*.swp
+*.pyc
+atom/
+buildlog/
+history/
+svn/
+swiftpm/
+migrate_working_dir/
+
+# ========================
+# Archivos de mapa / símbolos (debug/obfuscation)
+# ========================
+app.*.symbols
+app.*.map.json
